@@ -1,10 +1,12 @@
 Hello from AI Arduino community!
 
-steps to access the AI - https://www.microsoft.com/en-in/p/python-38/9mssztt1n39l?activetab=pivot:overviewtab
+steps to access the AI -
 
 
 ------------------------------------------------------------------------------------------------------------------------
 From here download python 3.8 . No other version! -
+ https://www.microsoft.com/en-in/p/python-38/9mssztt1n39l?activetab=pivot:overviewtab
+
 ------------------------------------------------------------------------------------------------------------------------
 
 1. Open the folder AI
